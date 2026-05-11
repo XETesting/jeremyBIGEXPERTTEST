@@ -1,5 +1,22 @@
-# Big Bango
+# Hello World Code Examples
 
-This is a new file created with new content via GitHub tool integration.
+## Python
+```python
+print("Hello, World!")
+```
 
-Created on branch BANGO.
+## JavaScript
+```javascript
+console.log("Hello, World!");
+```
+
+## Java
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+Updated on branch BANGO.
